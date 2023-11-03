@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">SKIP</string>
-    <string name="activity_main">SKIP</string>
-    <string name="accessibility_description">若无障碍服务发生故障，可以关闭后再打开。</string>
-</resources>
